@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="20" viewBox="0 0 240 20" role="img" aria-label="Progreso: 19%">
+<title>19%</title>
+<rect width="240" height="20" fill="#000000"/>
+<rect width="46" height="20" fill="#262626"/>
+<path fill="#262626" d="M0 0h4v20h-4zM5 0h4v20h-4zM10 0h4v20h-4zM15 0h4v20h-4zM20 0h4v20h-4zM25 0h4v20h-4zM30 0h4v20h-4zM35 0h4v20h-4zM40 0h4v20h-4zM45 0h4v20h-4zM50 0h4v20h-4zM55 0h4v20h-4zM60 0h4v20h-4zM65 0h4v20h-4zM70 0h4v20h-4zM75 0h4v20h-4zM80 0h4v20h-4zM85 0h4v20h-4zM90 0h4v20h-4zM95 0h4v20h-4zM100 0h4v20h-4zM105 0h4v20h-4zM110 0h4v20h-4zM115 0h4v20h-4zM120 0h4v20h-4zM125 0h4v20h-4zM130 0h4v20h-4zM135 0h4v20h-4zM140 0h4v20h-4zM145 0h4v20h-4zM150 0h4v20h-4zM155 0h4v20h-4zM160 0h4v20h-4zM165 0h4v20h-4zM170 0h4v20h-4zM175 0h4v20h-4zM180 0h4v20h-4zM185 0h4v20h-4zM190 0h4v20h-4zM195 0h4v20h-4zM200 0h4v20h-4zM205 0h4v20h-4zM210 0h4v20h-4zM215 0h4v20h-4zM220 0h4v20h-4zM225 0h4v20h-4zM230 0h4v20h-4zM235 0h5v20h-5z"/>
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="240" y2="0"><stop offset="0%" stop-color="#02bded"/><stop offset="10%" stop-color="#0bb6e9"/><stop offset="20%" stop-color="#20a7e2"/><stop offset="30%" stop-color="#319adc"/><stop offset="40%" stop-color="#4987d3"/><stop offset="47%" stop-color="#5e77ca"/><stop offset="60%" stop-color="#7d5cba"/><stop offset="70%" stop-color="#a047b5"/><stop offset="80%" stop-color="#be30aa"/><stop offset="90%" stop-color="#e0169e"/><stop offset="100%" stop-color="#fd0194"/></linearGradient></defs>
+<path fill="url(#g)" d="M0 0h4v20h-4zM5 0h4v20h-4zM10 0h4v20h-4zM15 0h4v20h-4zM20 0h4v20h-4zM25 0h4v20h-4zM30 0h4v20h-4zM35 0h4v20h-4zM40 0h4v20h-4zM45 0h1v20h-1z"/>
+</svg>
